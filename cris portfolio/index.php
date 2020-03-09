@@ -61,13 +61,13 @@
             <div class="services">
                 <div class="service">
                     <h3>Technical</h3>
-                    <p>You need to hire someone because building a website is a specialty.  I will help develop your ideas onto your website so you can take your ideas to wherever it needs to go, customized just the way you want it.</p>
+                    <p>You need to hire someone because building a website is a specialty.  I will help develop your ideas into your website so you can take your ideas wherever they need to go, customized just the way you want it.</p>
                 </div>
             </div>
             <div class="services">
                 <div class="service">
                     <h3>Simple</h3>
-                    <p>Your website doesn't have to complicated.  After all, less is more.  I'll make it as easy and efficient as possible to get you an affordable website.</p>
+                    <p>Your website doesn't have to be complicated.  After all, less is more.  I'll make it as easy and efficient as possible to get you an affordable website.</p>
                 </div>
             </div>
 
