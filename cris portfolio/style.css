@@ -7,8 +7,8 @@
 /* Custom Properties, update these for your own design */
 
 :root {
-    --ff-primary: 'Spartan', sans-serif;
-    --ff-secondary: 'Oxanium', cursive;
+    --ff-primary: 'Roboto Condensed', sans-serif;
+    --ff-secondary: 'Oxanium', sans-serif;
     
     --fw-reg: 300;
     --fw-bold: 900;
