@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="width=device-width, minimum-scale=1.0" name="viewport">
-        <title>Cris' Page</title>
+        <title>Cristopher Rodriguez Web Development</title>
         <link rel="icon" href="img/parrot.svg">
         <link rel="stylesheet" href="style.css">
 
@@ -12,7 +12,8 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" 
         integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />  
         <script src="https://kit.fontawesome.com/c4e9bbec73.js" crossorigin="anonymous"></script>
-        <link href="https://fonts.googleapis.com/css?family=Oxanium|Spartan&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed&display=swap" rel="stylesheet">
+
     </head>
 
     <body>
@@ -40,10 +41,10 @@
         <section class="intro" id="home">
 
             <h1 class="section__title section__title--intro">
-                Hey, I'm
-                    <strong>Cris</strong>
+                Cristopher
+                    <strong>Rodriguez</strong>
             </h1>
-            <p class="section__subtitle section__subtitle--intro">Front End Developer</p>
+            <p class="section__subtitle section__subtitle--intro">Front End Development</p>
             <img src="img/index.png" alt="Pic of Cris" class="intro__img" />
 
         </section>
@@ -55,19 +56,19 @@
             <div class="services">
                 <div class="service">
                     <h3>Communication</h3>
-                    <p>For much of my career I have worked with others to help them with their needs.  Communication is vital to how I work.  By communicating efficiently, I want to understand what your needs are to better develop your ideas on the internet.</p>
+                    <p>My career has been devoted to working with people to achieve their needs.  Let me know what your needs are so we can develop your ideas on the internet.</p>
                 </div>
             </div>
             <div class="services">
                 <div class="service">
                     <h3>Technical</h3>
-                    <p>You need to hire someone because building a website is a specialty.  I will help develop your ideas into your website so you can take your ideas wherever they need to go, customized just the way you want it.</p>
+                    <p>Building a website is a specialty.  Let me take care of that so you can focus on getting your message onto the internet.  I'll customize it too, just the way you want it.</p>
                 </div>
             </div>
             <div class="services">
                 <div class="service">
                     <h3>Simple</h3>
-                    <p>Your website doesn't have to be complicated.  After all, less is more.  I'll make it as easy and efficient as possible to get you an affordable website.</p>
+                    <p>Your website doesn't have to be complicated.  I'll make it as easy as possible to get you a website you love.</p>
                 </div>
             </div>
 
@@ -79,8 +80,8 @@
         <section class="about-me" id="about">
             <h2 class="section__title section__title--about">About Me</h2>
             <p class="section__subtitle section__subtitle--about">Front End Developer from NYC</p>
-            <p>Greetings!  I'm a New Yorker from Queens originally.  Doing several years of real estate, I have seen the immense impact tech has had on the real estate industry.  Rather than fight the change, I am fully embracing tech as my future!  The more that I learn about tech, the more power I see it has and what a vast outlet it is for creative endeavors. After flirting with HTML and CSS when the web was still new, I've decided now to fully commit myself to web development.  Since 2019 I've picked up Javascript and am currently exploring the exciting framework of React JS.  I have also familiarized with Bootstrap.  Be sure to check out my github and projects below!</p>
-            <p>Aside from my professional career, I am very passionate about bagpiping and chess.  In fact, I think they are very similar in that they involve both parts of the brain!  My chess team, the Brooklyn Kingsmen, which I am captain of, won 1st place last season.  I also finished 3rd place overall in the EUSPBA last year, as well as 2nd place in piobaireachd.  I believe it is necessary to be passionate and committed in order to succeed.</p>
+            <p>Greetings!  I'm a native New Yorker from Queens.  After several years of working in the North Brooklyn real estate industry, I have felt the immense impact of the tech industry; I am fully embracing that change!  The opportunity is a vast outlet for creative endeavorment and entrepreneurship. Although I had flirted with web design when the internet was new, I've decided to fully commit myself to web development.  After picking up Javascript in early 2019, I have moved onto exploring the exciting world of React JS.  I have also used Bootstrap to create easy and flexible web apps.  I am looking forward to hearing about your next project! And be sure to check out my github and projects below!</p>
+            <p>Aside from my professional career, I am very passionate about bagpiping and chess.  In fact, I think they are very related to computer engineering!  Recently, my chess team, the Brooklyn Kingsmen, which I'm captain of, won first place in the 2019 season.  I also earned 3rd place in the Eastern United States Pipe Band Association.  I believe passion and committment are key to success.</p>
 
             <img src="img/crisPhone.jpg" alt="Scott" class="about-me__img">
 
