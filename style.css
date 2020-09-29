@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #FFF933;
+    --clr-accent: #FFF933;  
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -112,7 +112,7 @@ h3 { font-size: var(--fs-h3) }
 
 .section__title--intro strong {
     display: block;
-}
+}   
 
 .section__subtitle {
     margin: 0;
